@@ -11,7 +11,7 @@ Setting up a development environment
 Get the code
 ------------
 
-    git clone https://github.com/ghemingway/cad.js
+    git clone https://github.com/wfatec/cad.js.git
     cd cad.js
 
 Make a place to put cad data
